@@ -1,7 +1,7 @@
 {
   "name": "find-module-deps",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find all the dependencies of a module",
   "license": "MIT",
   "repository": "bendrucker/find-module-deps",
