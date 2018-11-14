@@ -1,4 +1,4 @@
-# find-module-deps [![Build Status](https://travis-ci.org/bendrucker/find-module-deps.svg?branch=master)](https://travis-ci.org/bendrucker/find-module-deps)
+# find-module-deps [![Build Status](https://travis-ci.org/bendrucker/find-module-deps.svg?branch=master)](https://travis-ci.org/bendrucker/find-module-deps) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/find-module-deps.svg)](https://greenkeeper.io/)
 
 > Find all the dependencies of a module
 
